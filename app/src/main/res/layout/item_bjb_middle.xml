@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_marginTop="2dp"
+    android:background="#fb5444"
+    android:gravity="center"
+    android:text="中间也可以放置各种滚动类型布局"
+    android:textColor="@color/white" />
